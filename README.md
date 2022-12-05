@@ -10,10 +10,9 @@ This cross-domain association involves the combination of two computational subs
 
 ## System Diagram
 
-
-
+![alt text](https://github.com/carlestapi/BACTOMATA/blob/main/bactomata%20diagram.png)
 
 ## Plasmid Population Dynamics Model under ECA Environments
 
-![alt text](https://github.com/carlestapi/BACTOMATA/blob/main/bactomata%20diagram.png)
+
 
