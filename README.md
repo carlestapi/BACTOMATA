@@ -40,15 +40,15 @@ params.extinction_threshold=1e1;
 * Limited-resource coupled non-linear differential equation model parameters:
 
 ```math
-\begin{gathered}
 $$
+\begin{gathered}
 \bar{B}=\left(B_p^1, B_p^2, \ldots, B_p^N, B_0^1, B_0^2, \ldots, B_0^N\right) \\
 \frac{d R}{d t}=-\sum_{j=1}^N\left(U\left(R(t) ; \psi_p^j\right) \cdot B_p^j(t)+U\left(R(t) ; \psi_0^j\right) \cdot B_0^j(t)\right) \\
 \frac{d A}{d t}=-\alpha A(t) \cdot \sum_{j=1}^N\left(B_p^j(t)+B_0^i(t)\right) . \\
 \frac{d B_0^i}{d t}=\left(G\left(R ; \psi_0^i\right)-\kappa_0 A\right) \cdot B_0^i(t)+\sigma G\left(R ; \psi_p^i\right) \cdot B_p^i(t)-\gamma^i B_0^i(t) \sum_{j=1}^N B_p^j(t) \\
 \frac{d B_p^i}{d t}=\left(G\left(R ; \psi_p^i\right)-\kappa_p A-\sigma\right) \cdot B_p^i(t)+\gamma^i B_0^i(t) \sum_{j=1}^N B_p^j(t)
-$$
 \end{gathered}
+$$
 ```
 
 ## // Simulations under ECA Environments //
