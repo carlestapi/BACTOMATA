@@ -18,7 +18,7 @@ This cross-domain association involves the combination of two computational subs
 
 {Conjugation Rate / Saturation Ct/ Time / Dilution / Specific Affinity / Species / Plasmids / Strains / #Strains / MIC / Conjugation Frequency / DoseMax / Segregation Rate / Half Growth Ct/ Extintion Threshodl}
 
-* Limited-resource coupled non-linear differential equation model parameters:
+* Limited-resource differential equation model:
 
 ```math
 $$
@@ -38,11 +38,17 @@ $$
 
 ![alt text](https://github.com/carlestapi/BACTOMATA/blob/main/rule30_50.gif)
 
-* Evolving ECA Plasmid Fractions
+* Evolving ECA Plasmid Fractions (Correlations and Cross-Correlations)
 
 ![alt text](https://github.com/carlestapi/BACTOMATA/blob/main/AC_Bactomatons.gif)
 
 ![alt text](https://github.com/carlestapi/BACTOMATA/blob/main/bactomatons.gif)
 
-## 
+## Augmented work
+
+- Solar Protocol Call: 
+
+It seems natural to decouple the system energy/information from the mirage of an infinite energy supply procured by a centralized power grid. By using solar energy to power the device, also including the web servers that host all the output data generated within the system, we align with the goal of moving towards non human interference practices.
+
+- ...
 
