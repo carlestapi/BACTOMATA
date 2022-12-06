@@ -12,7 +12,11 @@ This cross-domain association involves the combination of two computational subs
 
 ![alt text](https://github.com/carlestapi/BACTOMATA/blob/main/bactomata%20diagram.png)
 
-## Plasmid Population Dynamics Model under ECA Environments
+## Simulations // Plasmid Population Dynamics Model under ECA Environments
 
+Limited-resource coupled non-linear differential equation model parameters:
 
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
