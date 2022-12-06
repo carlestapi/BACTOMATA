@@ -1,6 +1,6 @@
 # BACTOMATA 
 
-.- an heterotic hybrid computing device based on a coevolving system composed of (in vivo) bacterial plasmid populations and (in silico) elementary cellular automata (ECA) rules that update the physical state of the bacterial growth environment. 
+.- an ***heterotic hybrid computing device*** based on a coevolving system composed of (*in vivo*) bacterial plasmid populations and (*in silico*) elementary cellular automata (ECA) rules that update the physical state of the bacterial growth environment. 
 
 The system acts as an autonomous unsupervised installation with the capacity of generating a responsive dialog between an evolving primordial open-ended biological entity and a simple algorithmic rule whose computational complexity is Turing complete. 
 
