@@ -46,9 +46,16 @@ $$
 
 ## Augmented work
 
-- Solar Protocol Call: 
+- Solar Protocol Update: 
 
 It seems natural to decouple the system energy/information from the mirage of an infinite energy supply procured by a centralized power grid. By using solar energy to power the device, also including the web servers that host all the output data generated within the system, we align with the goal of moving towards non human interference practices.
 
-- ...
+- Latest tests @ Systems and Synthetic Biology Lab - Center for Genomic Sciences-UNAM
+
+Uploading Tl OpenTrons CA IMG_4612.mov…
+
+![image](https://github.com/carlestapi/BACTOMATA/assets/13526718/b6b26b3f-a4c4-47b8-b083-725c21779b89)
+![IMG_4614](https://github.com/carlestapi/BACTOMATA/assets/13526718/0ddff7ae-dee7-4ecc-a8d3-34be48519f4a)
+
+
 
